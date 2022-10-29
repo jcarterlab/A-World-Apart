@@ -4,10 +4,14 @@ This project examines recent changes in the interconnectedness of the latest 300
 
 <br/>
 
-The notebook can be found [here.](A World Apart.ipynb)
+The notebook can be found [here.](https://github.com/jcarterlab/A-World-Apart/blob/main/A%20World%20Apart.ipynb)
 
 The data can be found [here.](https://github.com/jcarterlab/A-World-Apart/tree/main/Data)
 
 <br/>
 
 **Sources:**
+
+Twitter (2022) https://developer.twitter.com/en/docs/twitter-api
+
+Earth Data Science (2020) https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/
